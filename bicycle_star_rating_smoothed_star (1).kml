@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+    <name>Welsh Government - Route Scheme Development >> 0.2 A66 and A483 - Single Carriageway >> A55, A494 and A483 Transport Needs and Resilience Review (Bicycle SRS)</name>
+    <Style id="star0">
+        <LineStyle>
+            <color>FFCCCCCC</color>
+            <width>3</width>
+        </LineStyle>
+    </Style>
+    <Style id="star1">
+        <LineStyle>
+            <color>FF000000</color>
+            <width>3</width>
+        </LineStyle>
+    </Style>
+    <Style id="star2">
+        <LineStyle>
+            <color>FF0000FF</color>
+            <width>3</width>
+        </LineStyle>
+    </Style>
+    <Style id="star3">
+        <LineStyle>
+            <color>FF00AAFF</color>
+            <width>3</width>
+        </LineStyle>
+    </Style>
+    <Style id="star4">
+        <LineStyle>
+            <color>FF44FFFF</color>
+            <width>3</width>
+        </LineStyle>
+    </Style>
+    <Style id="star5">
+        <LineStyle>
+            <color>FF009900</color>
+            <width>3</width>
+        </LineStyle>
+    </Style>
+    <Placemark>
+        <name>Road: A483</name>
+        <description>Section: 6, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.044459280000,52.951585050000 -3.044505343000,52.952483400000 -3.044555574000,52.953381570000 -3.044528142000,52.954280050000 -3.044386366000,52.955174570000 -3.044154308000,52.956062110000 -3.043920193000,52.956949040000 -3.043851257000,52.957846540000 -3.043889025000,52.958744030000 -3.044123854000,52.959631010000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A483</name>
+        <description>Section: 6, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.044123854000,52.959631010000 -3.044420298000,52.960511640000 -3.044696554000,52.961394670000 -3.044989797000,52.962275620000 -3.045329439000,52.963150540000 -3.045607032000,52.964033310000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A483</name>
+        <description>Section: 6, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.045607032000,52.964033310000 -3.045787571000,52.964924940000 -3.045869295000,52.965821990000 -3.045861221000,52.966720170000 -3.045816474000,52.967618210000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A483</name>
+        <description>Section: 6, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.045816474000,52.967618210000 -3.045718989000,52.968514660000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A483</name>
+        <description>Section: 6, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.045718989000,52.968514660000 -3.045620727000,52.969411130000 -3.045517467000,52.970307380000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A483</name>
+        <description>Section: 6, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.045517467000,52.970307380000 -3.045411203000,52.971203490000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A483</name>
+        <description>Section: 6, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.045411203000,52.971203490000 -3.045318966000,52.972100030000 -3.045186487000,52.972994830000 -3.045074466000,52.973890590000 -3.044937826000,52.974785100000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A483</name>
+        <description>Section: 6, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.044937826000,52.974785100000 -3.044755733000,52.975676500000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A483</name>
+        <description>Section: 6, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.044755733000,52.975676500000 -3.044501269000,52.976561260000 -3.044145010000,52.977433220000 -3.043711223000,52.978292370000 -3.043185400000,52.979132680000 -3.042569342000,52.979950540000 -3.041917421000,52.980758170000 -3.041189002000,52.981541800000 -3.040415627000,52.982309810000 -3.039574742000,52.983051450000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A483</name>
+        <description>Section: 6, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.039574742000,52.983051450000 -3.038705248000,52.983781100000 -3.037819636000,52.984503710000 -3.037309982000,52.984975180000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A5</name>
+        <description>Section: 1, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.044392553000,52.950992480000 -3.044206541000,52.950102050000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A5</name>
+        <description>Section: 1, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.044206541000,52.950102050000 -3.044058349000,52.949208260000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A5</name>
+        <description>Section: 1, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.044058349000,52.949208260000 -3.043950175000,52.948312370000 -3.043839109000,52.947416580000 -3.043743062000,52.946520420000 -3.043693267000,52.945622570000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A5</name>
+        <description>Section: 1, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.043693267000,52.945622570000 -3.043629876000,52.944725030000 -3.043569724000,52.943827390000 -3.043552351000,52.942929140000 -3.043571656000,52.942030820000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A5</name>
+        <description>Section: 1, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.043571656000,52.942030820000 -3.043618158000,52.941132860000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A5</name>
+        <description>Section: 1, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.043618158000,52.941132860000 -3.043664799000,52.940234870000 -3.043687217000,52.939336500000 -3.043720869000,52.938438240000 -3.043702885000,52.937539830000 -3.043681759000,52.936641490000 -3.043647907000,52.935743200000 -3.043574536000,52.934846070000 -3.043496859000,52.933948840000 -3.043404828000,52.933052030000 -3.043291479000,52.932156020000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A5</name>
+        <description>Section: 1, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.043291479000,52.932156020000 -3.043170162000,52.931260490000 -3.043056452000,52.930364440000 -3.042945753000,52.929468260000 -3.042837690000,52.928571940000 -3.042702013000,52.927676950000 -3.042563426000,52.926782110000 -3.042447706000,52.925886080000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A5</name>
+        <description>Section: 1, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.042447706000,52.925886080000 -3.042375658000,52.924988430000 -3.042320119000,52.924090260000 -3.042331399000,52.923192170000 -3.042310258000,52.922293480000 -3.042347542000,52.921395050000 -3.042525710000,52.920504670000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A5</name>
+        <description>Section: 1, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-3.042525710000,52.920504670000 -3.043020636000,52.919669590000 -3.043227132000,52.919491680000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A55</name>
+        <description>Section: 10, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-4.631890405000,53.306254100000 -4.630410487000,53.306388550000 -4.630377014000,53.307128410000 -4.629961259000,53.307565900000</coordinates>
+        </LineString>
+    </Placemark>
+    <Placemark>
+        <name>Road: A55</name>
+        <description>Section: 7, Carriageway: 3</description>
+        <styleUrl>#star1</styleUrl>
+        <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>      
+            <coordinates>-4.188576311000,53.218147950000 -4.187554918000,53.217491050000 -4.186564708000,53.216817310000 -4.185595111000,53.216132870000 -4.184634379000,53.215443900000 -4.183697943000,53.214743130000 -4.182762636000,53.214041700000 -4.181838553000,53.213334990000 -4.181257904000,53.212828210000</coordinates>
+        </LineString>
+    </Placemark>
+    </Document>
+</kml>
